@@ -7,7 +7,7 @@ Información de contacto:
 - GitHub: izxnsr
 
 ## Limitaciones
-Debido a limitaciones de posibilidades que tiene el programa de Endless ATC, pueden haber procedimientos que no se usen, como algunas SID/STAR, o por ejemplo, las altitudes iniciales de GCTS, que se han limitado a 6000 pies. Aún así, todos los procedimientos de llegada dentro del espacio aéreo dibujado funciona correctamente. Se ha intentado mantener el máximo realismo posible y la fidelidad a la realidad para poder disfrutar de la experiencia.
+Debido a limitaciones de posibilidades que tiene el programa de Endless ATC, pueden haber procedimientos que no se usen, como algunas SID/STAR, o por ejemplo, las altitudes iniciales de GCTS, que se han limitado a 6000 pies. También, tener en cuenta que algunas de las mínimas radar encima de la isla, están a FL080 cuando en realidad deberían ser de FL090 y FL145, igualmente, nada que se pueda hacer por cómo funciona el programa.  Aún así, todos los procedimientos de llegada dentro del espacio aéreo dibujado funciona correctamente. Se ha intentado mantener el máximo realismo posible y la fidelidad a la realidad para poder disfrutar de la experiencia.
 
 ## Cosas por terminar
 Las cosas que aparezcan en este apartado no están limitadas solo a las que aparezcan, por lo que si se encuentra algún error que corregir o alguna actualización, se irá actualizando la sección acorde.
