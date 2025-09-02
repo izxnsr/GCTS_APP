@@ -14,5 +14,8 @@ Las cosas que aparezcan en este apartado no están limitadas solo a las que apar
 
 - Configuración Oeste
 
+## Instalación
+Para instalar el archivo, simplemente [descarga la última versión](https://github.com/izxnsr/GCTS_APP/releases/latest), y coloca el archivo en ...\Endless ATC\locations.
+
 ## Agradecimientos
 Me gustaría darle las gracias a Alejandro (Discord: aleexx28) y a Iker (Discord: gdnoxi) por ayudarme a comenzar en la creación de los archivos de configuración para Endless ATC. Cualquier contribución al mantenimiento del archivo será muy agradecida y se podrá subir a este repositorio previamente facilitándome el nuevo archivo actualizado para poder probarlo mediante la información de contacto proporcionada arriba.
