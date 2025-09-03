@@ -18,7 +18,7 @@ Limitaciones de procedimientos que no se pueden conseguir debido a cómo funcion
 ## Cosas por terminar
 Lo que aparezca en esta sección se irá arreglando y terminando en las próximas actualizaciones:
 
-- Eliminar puntos intermedios dibujados de las SIDs en ambas configuraciones
+¡Nada por terminar en este momento!
 
 ## Instalación
 Para instalar el archivo, simplemente [descarga las última versiónes](https://github.com/izxnsr/GCTS_APP/releases/latest) de las dos posibles configuraciones, y coloca los archivos en ...\Endless ATC\locations.
