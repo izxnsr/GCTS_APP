@@ -16,7 +16,9 @@ Limitaciones de procedimientos que no se pueden conseguir debido a cómo funcion
 - Restricciones de altitud en STARs desactivadas debido a que los tráficos descienden sin autorización
 
 ## Cosas por terminar
-¡Nada por terminar en este momento!
+Lo que aparezca en esta sección se irá arreglando y terminando en las próximas actualizaciones:
+
+- Eliminar puntos intermedios dibujados de las SIDs en ambas configuraciones
 
 ## Instalación
 Para instalar el archivo, simplemente [descarga las última versiónes](https://github.com/izxnsr/GCTS_APP/releases/latest) de las dos posibles configuraciones, y coloca los archivos en ...\Endless ATC\locations.
