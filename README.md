@@ -1,4 +1,4 @@
-# GCTS_APP | Endless ATC v5.7.7 AIRAC 2509
+# GCTS_APP | Endless ATC v5.7.7 AIRAC 2510
 Este archivo es una configuración de Tenerife Sur Approach (GCTS_APP) para Endless ATC v5.7.7 en el AIRAC 2508 hecho por Izan (izxnsr). En caso de nueva actualización del programa, se puede esperar que cosas dejen de funcionar, pero se intentará revisar y actualizar lo antes posible. Lamentablemente hay limitaciones a la realidad debido a cómo funciona el programa. Puedes consultar las limitaciones conocidas por el momento abajo. Si cualquier cosa no funciona o hubiera que actualizar algún punto o procedimiento debido a una actualización del AIRAC, puede contactarme por discord o subir un issue al repositorio.
 
 Información de contacto:
