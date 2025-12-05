@@ -21,7 +21,7 @@ Lo que aparezca en esta sección se irá arreglando y terminando en las próxima
 ¡Nada por terminar en este momento!
 
 ## Instalación
-Para instalar el archivo, simplemente [descarga las última versiónes](https://github.com/izxnsr/GCTS_APP/releases/latest) de las dos posibles configuraciones, y coloca los archivos en ...\Endless ATC\locations.
+Para instalar el archivo, simplemente [descarga las últimas versiones](https://github.com/izxnsr/GCTS_APP/releases/latest) de las dos posibles configuraciones, y coloca los archivos en ...\Endless ATC\locations.
 
 ## Agradecimientos
 Me gustaría darle las gracias a Alejandro (Discord: aleexx28) y a Iker (Discord: gdnoxi) por ayudarme a comenzar en la creación de los archivos de configuración para Endless ATC. Cualquier contribución al mantenimiento del archivo será muy agradecida y se podrá subir a este repositorio previamente facilitándome el nuevo archivo actualizado para poder probarlo mediante la información de contacto proporcionada arriba.
